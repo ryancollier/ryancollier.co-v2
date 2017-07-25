@@ -1,0 +1,29 @@
+<div class="site-topper"></div>
+
+
+<header class="site-header" role="banner">
+
+  <div class="wrapper">
+
+    <div class="site-header-content">
+      <div class="wrapper">
+        {% assign default_paths = site.pages | map: "path" %}
+        {% assign page_paths = site.header_pages | default: default_paths %}
+        <a class="site-title" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+        <p class="tag-line">Product Designer at Socrata. Interested in design, words, civics and making—of all kinds—for the greater good.</p>
+      </div>
+    </div>
+
+    {% if page_paths %}
+      <nav class="site-nav">
+        <div class="wrapper">
+          <div class="trigger">
+            <a class="page-link {% if page.url == '/' %}active{% endif %}" href="{{ "/" | relative_url }}" >Home</a>
+            <a class="page-link {% if page.url == '/work/' %}active{% endif %}" href="{{ "/work" | relative_url }}">Work</a>
+            <a class="page-link {% if page.url == '/about/' %}active{% endif %}" href="{{ "/about" | relative_url }}">About</a>
+          </div>
+        </div>
+      </nav>
+    {% endif %}
+  </div>
+</header>

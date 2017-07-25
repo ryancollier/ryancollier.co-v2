@@ -1,0 +1,17 @@
+// Hello
+
+$neat-grid: (
+  columns: 10,
+  gutter: 20px,
+);
+
+$rco-grid: (
+  columns: 1,
+  gutter: 3%,
+);
+
+$rco-grid--mxl-up: (
+  columns: 10,
+  gutter: 20px,
+  media: "(min-width: 768px)",
+);
