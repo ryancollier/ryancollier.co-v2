@@ -4,16 +4,16 @@ title: Highlights from My Last 2.5 Years at Socrata
 permalink: /work/socrata/
 ---
 
-My last two and half years at Socrata has been challenging, rewarding, at-times-frustrating, and an overall fun experience. Reflecting on this has made me sincerely grateful for my time so far with this mission-driven company.
+<p class="lead">My last two and half years at Socrata have been challenging, rewarding, at-times-frustrating, and an overall fun experience. Reflecting on this has made me sincerely grateful for my time so far with this mission-driven company.</p>
 
-I was matched with a great team from the start; we have done interesting projects where I could contribute and grow. Both the work and the people have stretched my abilities and my imagination. Importantly, I get the chance to learn every single day.
+I was matched with a great team from the start; we tackled interesting projects where I could contribute and grow. Both the work and the people have stretched my abilities and my imagination. Importantly, I get the chance to learn every single day.
 
 ## I’ve shipped product
 I’ve been able to ship a lot of software and maintain strong human-centered design methods and process.
 
 * Open Budget - _April 2015_
-* Open Expenditures - _July 2015_
 * Open Payroll - _June 2015_
+* Open Expenditures - _July 2015_
 * Socrata Open Data Catalog a mobile-first redesign - _October 2015_
 * Socrata Styleguide - _November 2015_
 * Socrata Perspectives - _February 2016_
@@ -44,6 +44,6 @@ In July 2016, Socrata underwent a partial company restructuring and I was asked 
 Since then, I’ve recruited and grown our design team to 6 full-time designers with a target to bring on a principal researcher to drive our discovery work and research efforts. In many ways, I feel that I’m actively working toward making myself obsolete!  
 
 ## What next?
-I’ve still got a lot of learning to do. I’d like to continue to hone my craft as a designer and product-thinker. I’m also challenging myself as a person manger as well as driving the definition an execution of product design processes at Socrata.
+I’ve still got a lot of learning to do. I’d like to continue to hone my craft as a designer and product-thinker. I’m also challenging myself as a person manger as well as driving the definition and execution of product design processes at Socrata.
 
 If there’s anything I miss from my early days at the company and at previous organizations, it’s the focus, speed, and challenge of going after something new and unknown. For now, Socrata continues to provide a good deal of this for me as a manager and team lead. And I’m always curious to learn what new and interesting things are out there, just around the corner.

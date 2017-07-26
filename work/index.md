@@ -1,18 +1,30 @@
 ---
 layout: page
-title: Work
+title: Selected Work & Case Studies
 permalink: /work/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+<div class="project-list">
+<a href="/work/socrata/">
+  <h3>Highlights from My Last 2.5 Years at Socrata</h3></a>
+  <p class="description">Reflecting on projects and personal growth over the last couple of years.</p>
+  <a class="view" href="/work/socrata/">View Post</a>
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+<a href="/work/visualization/">
+  <h3>Socrata Visualization Authoring</h3></a>
+  <p class="description">A new visualization authoring experience tuned for Socrata user scenarios.</p>
+  <a  class="view" href="/work/visualization/">View Project</a>
 
+<a href="/work/finance/">
+  <h3>Socrata for Public Finance</h3></a>
+  <p class="description">A financial transparency initiative for government.</p>
+  <a class="view" href="/work/finance/">View Project</a>
 
-[jekyll-organization]: https://github.com/jekyll
+  <h2>Older Projects</h2>
+<a href="/work/tracking/">
+  <h3>Tracking Health and Wellness Programs</h3></a>
+  <p class="description">Helping benefit managers track their investments in employee health and wellness.</p>
+  <a class="view" href="/work/tracking/">View Project</a>
+
+</div>

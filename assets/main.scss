@@ -25,12 +25,12 @@ h1, h2, h3, h4, h5 {
 
 h1 {
   font-size: 23px;
-  margin-top: 32px
+  margin-top: 32px;
 }
 
 h2 {
   font-size: 21px;
-  margin-top: 56  px;
+  margin-top: 56px;
 }
 
 h3 {
@@ -49,6 +49,10 @@ h3 {
     margin-top: 40px;
   }
 
+}
+
+p+p {
+  margin-top: 24px;
 }
 
 a {
@@ -272,10 +276,13 @@ header {
 
   a {
     @extend .content-link;
-    margin-top: 3px;
-    margin-bottom: 32px;
-    font-size: 13px;
     color: #84889C;
+    margin-bottom: 3px;
+    &.view {
+      margin-top: 3px;
+      margin-bottom: 32px;
+      font-size: 13px;
+    }
   }
 
 }

@@ -5,8 +5,9 @@
 layout: home
 ---
 
-I’m a product designer living in Seattle, Washington. I have been doing human-centered design for 9-plus years. I’m most interested and motivated by projects that aim to make the world a better place in some way.
+I’m a product designer living in Seattle, Washington. I have been doing human-centered design for 9-plus years. I’m most interested and motivated by projects that attempt to make the world a better place in some small--or big!--way.
 
-My role has run the gamut from value definition to detailed design—be it interfaces, or services. I enjoying framing the role of product design in a broad way that works to discover and align human needs with business outcomes...
+I have worked on a variety of products and services in education, healthcare, and government. I like to work as a generalist, but enjoy the challenge of learning quickly and diving deep into problems.
 
-<a href="/contact/" class="content-link">More about me ➝</a>
+
+<a href="/about/" class="content-link">More about me ➝</a>
