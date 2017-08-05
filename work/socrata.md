@@ -4,9 +4,9 @@ title: Highlights from My Last 2.5 Years at Socrata
 permalink: /work/socrata/
 ---
 
-<p class="lead">My last two and half years at Socrata have been challenging, rewarding, at-times-frustrating, and an overall fun experience. Reflecting on this has made me sincerely grateful for my time so far with this mission-driven company.</p>
+<p class="lead">My last two and half years at Socrata have been challenging, rewarding, at-times-frustrating, and an overall fun experience. Reflecting on this reinforces my appreciation for this mission-driven company.</p>
 
-I was matched with a great team from the start; we tackled interesting projects where I could contribute and grow. Both the work and the people have stretched my abilities and my imagination. Importantly, I get the chance to learn every single day.
+I was matched with a great team from the start; we tackled interesting projects where I could contribute and grow. Both the work and the people have stretched my abilities and my imagination. Importantly, I've had the chance to learn every single day.
 
 ## I’ve shipped product
 I’ve been able to ship a lot of software and maintain strong human-centered design methods and process.
