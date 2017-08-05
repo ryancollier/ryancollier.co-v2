@@ -10,7 +10,7 @@ I’m a product designer living in Seattle, Washington. I have been doing human-
 
 I have worked on a variety of products and services in education, healthcare, and government. I like to work as a generalist, but enjoy the challenge of learning quickly and diving deep into problems.
 
-I am a collaborator. I like to ship product. I think of the role of product design in a broad way with the aim to uncover and align human needs and business outcomes.
+I am a collaborator. I like to ship product. I think of the product design role in a broad way; its aim to uncover and align human needs and business outcomes.
 
 Before getting into design, I worked on technology and media for people with disabilities.
 
