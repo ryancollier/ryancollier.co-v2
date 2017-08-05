@@ -179,5 +179,3 @@ And another customer from the City of San Francisco said:
 >“We stopped training people on Socrata visualizations. It was too hard. I just gave up. But this…we can definitely use this. Thank you.”
 
 While we are still working towards a full migration on to the new experience, users have created over 2300 visualizations with the new authoring experience.
-
-— EXAMPLE CUSTOMER VIZ —
