@@ -5,9 +5,8 @@
 layout: home
 ---
 
-I’m a product designer living in Seattle, Washington. I have been doing human-centered design for 9-plus years. I’m most interested and motivated by projects that attempt to make the world a better place in some small--or big!--way.
+I’m a product designer living in Seattle, Washington. I have been doing human-centered design for 10-plus years. I’m most interested and motivated by projects that attempt to make the world a better place in some small--or big!--way.
 
-I have worked on a variety of products and services in education, healthcare, and government. I like to work as a generalist, but enjoy the challenge of learning quickly and diving deep into problems.
-
+I have worked on a variety of products and services in education, healthcare, government. Currently doing product design in transportation services with Convoy. I like to work as a generalist, and enjoy the challenge of learning quickly and diving deep into problems.
 
 <a href="/about/" class="content-link">More about me ➝</a>
