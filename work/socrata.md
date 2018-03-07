@@ -28,8 +28,8 @@ _Not to mention, lots of iteration in between those bullet points!_
 I was also able to drive in-depth, discovery, problem space, and experience research.
 
 * Communication of government finance information - _February 2015_
-* Collaborating on data in Government Settings - _November 2016_
-* Influencing Change through Government Performance Management - _April 2017_
+* Collaborating on data in government settings - _November 2016_
+* Influencing change through government performance management - _April 2017_
 
 ## Growth
 I  experienced a tremendous amount of personal and professional growth at Socrata.
