@@ -15,7 +15,6 @@ body {
   line-height: 1.45;
   font-weight: 300;
   color: $not-black;
-
 }
 
 h1, h2, h3, h4, h5 {
@@ -232,6 +231,12 @@ header {
 
     @include grid-media($rco-grid--mxl-up) {
       @include grid-column(8);
+
+      .post-content {
+        & p, & ul {
+          width: 540px; // This could prbably be done with a grid function instead. 
+        }
+      }
 
       .artifact-wrapper {
         @include grid-container;
