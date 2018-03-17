@@ -234,7 +234,7 @@ header {
 
       .post-content {
         & p, & ul {
-          width: 540px; // This could prbably be done with a grid function instead. 
+          width: 540px; // This could prbably be done with a grid function instead.
         }
       }
 
@@ -250,6 +250,9 @@ header {
         }
         .caption-right {
           @include grid-column(5)
+        }
+        .caption-full {
+          @include grid-column(10);
         }
       }
 

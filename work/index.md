@@ -27,4 +27,11 @@ permalink: /work/
   <p class="description">Helping benefit managers track their investments in employee health and wellness.</p>
   <a class="view" href="/work/tracking/">View Project</a>
 
+<a href="/work/healthentic-ux/">
+  <h3>On Process: User Experience at Healthentic</h3></a>
+  <p class="description">Building, experimenting, and refining design processes.</p>
+  <a class="view" href="/work/tracking/">View Project</a>
+
+
+
 </div>
