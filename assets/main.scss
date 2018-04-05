@@ -191,14 +191,19 @@ header {
       @include grid-container;
       .trigger {
         @include grid-column(1, $rco-grid);
+        display: flex;
+        justify-content: space-evenly;
+        width: 100%;
+        margin-left: 0;
         .page-link {
           display: inline-block;
           font-size: 18px;
           font-weight: 300;
           color: $not-black;
           text-decoration: none;
-          margin-right: 38px;
+          text-align: center;
           padding: 8px 6px 7px;
+          width: 27%;
           &:hover {
             color: $navigation-hover-color;
           }
@@ -208,7 +213,14 @@ header {
           }
         }
         @include grid-media($rco-grid--mxl-up) {
+          display: block;
           @include grid-column(8);
+          .page-link {
+            width: auto;
+            text-align: right;
+            margin-right: 38px;
+
+          }
         }
       }
     }
