@@ -7,7 +7,7 @@ permalink: /work/
 
 <div class="project-list">
 <a href="/work/socrata/">
-  <h3>Highlights from My Last 2.5 Years at Socrata</h3></a>
+  <h3>Highlights from my time at Socrata</h3></a>
   <p class="description">Reflecting on projects and personal growth over the last couple of years.</p>
   <a class="view" href="/work/socrata/">View Post</a>
 
